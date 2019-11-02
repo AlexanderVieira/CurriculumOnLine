@@ -52,7 +52,7 @@
         "jquery.browser": "0.1.0",
         "jquery.flot.tooltip": "github:krzysu/flot.tooltip",
         "loaders.css": "0.1.2",
-        "lodash": "4.17.11",
+        "lodash": "4.17.13",
         "modernizr": "3.6.0",
         "moment": "2.22.2",
         "ng2-charts": "1.6.0",
