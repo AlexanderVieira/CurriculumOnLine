@@ -118,7 +118,7 @@
         "karma-spec-reporter": "0.0.32",
         "karma-webpack": "3.0.5",
         "mini-css-extract-plugin": "0.4.4",
-        "node-sass": "4.10.0",
+        "node-sass": "4.13.1",
         "optimize-css-assets-webpack-plugin": "5.0.1",
         "raw-loader": "0.5.1",
         "rtlcss": "2.4.0",
